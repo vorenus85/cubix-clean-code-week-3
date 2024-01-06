@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest --maxWorkers 2  --coverage"
+    "test": "npx jest --maxWorkers 2  --coverage --verbose"
   },
   "author": "Janos Perge",
   "license": "ISC",
